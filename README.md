@@ -2,6 +2,7 @@
 
 ### Overview
 This repository contains code and results for detecting brain tumors in MRI scans and pneumonia in chest X-ray images using deep learning, enhanced with explainable AI (XAI) techniques.
+
 We use two state-of-the-art convolutional neural networks: ResNet50 and DenseNet121 and apply Grad-CAM visualizations to generate heatmaps, showing which regions of the image influenced the model’s predictions.
 
 ## Getting Started
