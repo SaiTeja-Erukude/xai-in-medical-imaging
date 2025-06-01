@@ -1,0 +1,12 @@
+Metric,Value
+loss,0.4295218884944916
+accuracy,0.9432098865509033
+auc,0.9606522917747498
+Overall Accuracy,0.9432098765432099
+Number of Test Samples,810
+Class notumor Count,405
+Class tumor Count,405
+ROC AUC (notumor),0.9855448864502363
+ROC AUC (tumor),0.9855509830818474
+Average Precision (notumor),0.8521590736881711
+Average Precision (tumor),0.8847857033932011

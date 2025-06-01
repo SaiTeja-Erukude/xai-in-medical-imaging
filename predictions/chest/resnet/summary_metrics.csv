@@ -1,0 +1,12 @@
+Metric,Value
+loss,0.35831528902053833
+accuracy,0.8440170884132385
+auc,0.9319344758987427
+Overall Accuracy,0.844017094017094
+Number of Test Samples,468
+Class normal Count,234
+Class pneumonia Count,234
+ROC AUC (normal),0.9545985828037109
+ROC AUC (pneumonia),0.954598582803711
+Average Precision (normal),0.8204693672122599
+Average Precision (pneumonia),0.8220328815836729
